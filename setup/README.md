@@ -14,6 +14,7 @@ Clone a copy of your remote repo locally by using the `git clone` command:
 
 ```bash
 git clone https://github.com/<your-username>/express-api-jukebox-lab.git
+```
 
 > 📚 Note: In the link above, where it says `<your-username>`, you should see the username from your GitHub account.
 
