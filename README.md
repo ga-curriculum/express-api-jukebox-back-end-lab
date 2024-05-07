@@ -32,7 +32,7 @@ Estimated time to complete core lab exercise: **4 hours**
 
 ## Solution code
 
-🏁 [Solution code](#)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/express-api-jukebox-lab-solution)
 
 ## Internal resources
 
