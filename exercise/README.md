@@ -64,7 +64,7 @@ You'll implement full CRUD operations, allowing users to interact freely with th
   {
     "title": "Track Title",
     "artist": "Artist Name",
-    "time": "3:45",
+    "time": "3:45"
   }
   ```
 
@@ -79,7 +79,7 @@ You'll implement full CRUD operations, allowing users to interact freely with th
   {
     "title": "New Track Title",
     "artist": "New Artist Name",
-    "time": "3:25",
+    "time": "3:25"
   }
   ```
 
