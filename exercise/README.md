@@ -87,8 +87,8 @@ You'll implement full CRUD operations, allowing users to interact freely with th
 
 - **Endpoint**: `DELETE /tracks/:id`
 - **Function**: Deletes a track from the database.
-- **Response**: Success message.
-- **Success Status Code**: 204 No Content
+- **Response**: Deleted track.
+- **Success Status Code**: 200 OK
 - **Error Status Code**: 500 Internal Server Error
 
 
