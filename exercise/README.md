@@ -1,8 +1,11 @@
-# ![Express API - Jukebox Back-End Lab - Exercise](./assets/hero.png)
+<h1>
+  <span class="headline">Jukebox Back-End Lab</span>
+  <span class="subhead">Exercise</span>
+</h1>
 
 ## Requirements
 
-Welcome to the Reactville Jukebox! In this lab, you'll build the backend of a collaborative, community-driven jukebox application where anyone can contribute tunes by adding, updating, or deleting music tracks. This lab is designed to give you practice developing a backend API using Express.
+Welcome to the Reactville Jukebox! In this lab, you'll build the back-end of a collaborative, community-driven jukebox application where anyone can contribute tunes by adding, updating, or deleting music tracks. This lab is designed to give you practice developing a back-end API using Express.
 
 As you develop each feature, you should use Postman to test your API endpoints.
 
@@ -10,12 +13,12 @@ You'll implement full CRUD operations, allowing users to interact freely with th
 
 ### Technical stack
 
-- **Node.js and Express**: The backend will be built using Node.js with Express to handle server-side logic and HTTP requests.
+- **Node.js and Express**: The back-end will be built using Node.js with Express to handle server-side logic and HTTP requests.
 - **MongoDB and Mongoose**: Use MongoDB as the database for storing track data, with Mongoose in your Node app to provide schema validation.
 
 ### Necessary middleware
 
-- **CORS middleware**: Implement [CORS middleware](https://www.npmjs.com/package/cors) to enable cross-origin requests, ensuring the React frontend can interact seamlessly with the Express backend.
+- **CORS middleware**: Implement [CORS middleware](https://www.npmjs.com/package/cors) to enable cross-origin requests, ensuring the React frontend can interact seamlessly with the Express back-end.
 - **Method Override middleware**: Implement [Method Override middleware](https://www.npmjs.com/package/method-override) so you're able to use HTTP verbs such as `PUT` and `DELETE`.
 - **`express.json()` middleware**: Implement Express' built-in `express.json()` middleware to parse incoming requests with JSON payloads.
 

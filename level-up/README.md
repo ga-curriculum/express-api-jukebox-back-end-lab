@@ -1,4 +1,7 @@
-# ![Express API - Jukebox Back-End Lab - Level Up](./assets/hero.png)
+<h1>
+  <span class="headline">Jukebox Back-End Lab</span>
+  <span class="subhead">README</span>
+</h1>
 
 ## Level Up
 
@@ -29,3 +32,4 @@ Expand the `Track` model to include additional properties that add to the track 
   - Implementing API calls from your backend to retrieve the URL to a sound clip or album art when adding or updating tracks.
 
 Happy Coding!
+!
